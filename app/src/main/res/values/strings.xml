@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crystalize</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="Q1">What is the letter A in the phonetic alphabet?</string>
+    <string name="A1">alpha</string>
+    <string name="H1">A tough, domineering bloke</string>
+</resources>
